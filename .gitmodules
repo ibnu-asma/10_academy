@@ -1,0 +1,3 @@
+[submodule "challenge-week1"]
+	path = challenge-week1
+	url = https://github.com/ibnu-asma/MoonLightEnergySolutions_challenge-week1.git
