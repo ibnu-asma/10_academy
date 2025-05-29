@@ -40,7 +40,7 @@ Week 0 at 10 Academy was all about hitting the ground running, and Task 1 set th
 3. **Fixing Remote Issues**:
    - Encountered a typo (`origion` instead of `origin`):
      ```bash
-     git remote rm origion
+     git remote rm ori gion
      git remote add origin https://github.com/ibnu-asma/MoonLightEnergySolutions_challenge-week1.git
      ```
    - Verified the remote:
@@ -139,8 +139,8 @@ Week 0 at 10 Academy was all about hitting the ground running, and Task 1 set th
       ```
     - Removed any non-submodule `challenge-week1` folder:
       ```bash
-      git rm -r --cached challenge-week1
-      rm -rf challenge-week1
+      git rm -r --cached challenge-week0
+      rm -rf challenge-week0
       ```
     - Added the submodule:
       ```bash
